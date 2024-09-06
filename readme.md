@@ -1,4 +1,3 @@
-```markdown
 # Ecommerce Automation Testing
 
 This project is a test automation suite for an ecommerce website. It uses Selenium WebDriver with Java for browser automation, JUnit for assertions, and Maven for project management.
